@@ -12,8 +12,8 @@ def read_csv_range(filename, start, end):
     return rows
 
 # Rentang data yang diproses (misal dari baris 1 sampai 50)
-start_row = 0  # Baris pertama (0-based index)
-end_row = 5   # Baris terakhir yang ingin diproses
+start_row = 6  # Baris pertama (0-based index)
+end_row = 10   # Baris terakhir yang ingin diproses
 
 # Deklarasi akun tunggal
 email = "yulianinda"
